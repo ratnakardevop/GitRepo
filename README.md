@@ -1,2 +1,3 @@
-# GitRepo
-repository
+# maven-project
+
+Simple Maven Project
